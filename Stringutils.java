@@ -1,0 +1,2 @@
+hello
+string related functions
